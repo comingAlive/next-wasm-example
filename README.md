@@ -1,6 +1,6 @@
 # Next.js + WebAssembly example
 
-This example shows how to build typed and optimized WebAssembly module and dynamically import it inside of Next.js.
+This example shows how to build a typed and optimized WebAssembly module from Rust and dynamically import it inside of Next.js.
 
 ## How to use
 
