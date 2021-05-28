@@ -7,6 +7,9 @@ This example shows how to build a typed and optimized WebAssembly module from Ru
 Clone repo and install dependencies:
 
 ```bash
+git clone https://github.com/comingAlive/next-wasm-example.git
+cd next-wasm-example
+
 npm install
 # or
 yarn
